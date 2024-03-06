@@ -1,0 +1,10 @@
+Ligaria o primeiro interruptor e deixaria ligado por alguns minutos.
+
+Desligaria o primeiro interruptor e, ao mesmo tempo, ligaria o segundo interruptor.
+
+Agora, iria até a sala das lâmpadas. As situações possíveis são:
+
+Se a lâmpada estiver acesa, o interruptor 2 controla essa lâmpada.
+Se a lâmpada estiver apagada, toque a lâmpada. Se ela estiver quente, o interruptor 1 controla essa lâmpada. Se estiver fria, o interruptor 3 controla essa lâmpada.
+Dessa forma, você pode identificar qual interruptor controla cada lâmpada com apenas duas idas até a sala das lâmpadas.
+
